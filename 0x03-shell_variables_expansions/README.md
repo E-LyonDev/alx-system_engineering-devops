@@ -26,3 +26,9 @@ SHELL, INIT FILES, VARIABBLES AND EXPANSIONS
 
 8-true_knowledge
     A script that prints the result of the addition 128 with  value stored the environment variable TRUEKNOLEGE
+
+9-divide_and_rule
+    A script that prints the result of POWER devided by DEVIDE, followed by a new name
+
+10-love_exponent_breath
+    A script that displays the result of BREATH to the power LOVE
