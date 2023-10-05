@@ -32,3 +32,9 @@ SHELL, INIT FILES, VARIABBLES AND EXPANSIONS
 
 10-love_exponent_breath
     A script that displays the result of BREATH to the power LOVE
+
+11-binary_to_decimal
+    A script that converts number from base 2 to base 10
+
+12-combinations
+    A script that prints all possible commbinations of two letters, except oo
